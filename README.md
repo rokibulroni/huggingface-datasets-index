@@ -16,8 +16,10 @@ This repository automatically fetches and maintains an up-to-date index of publi
 ### 📁 JSON Data Preview
 
 You can access the live auto-updated JSON here:
-🔗 [`https://raw.githubusercontent.com/rokibulroni/huggingface-datasets-index/main/data/huggingface_datasets.json`](https://raw.githubusercontent.com/rokibulroni/huggingface-datasets-index/main/data/huggingface_datasets.json)
+🔗 [`Check API URL`](https://rokibulroni.github.io/huggingface-datasets-index/data/huggingface_datasets.json)
 
+
+ 
 Sample entry:
 
 ```json
