@@ -50,5 +50,5 @@ The workflow runs every 3 days and commits new changes if the dataset list is up
 ### 👨‍💻 Developer Info
 
 Built with ❤️ by [Rokibul Islam Roni](https://rokibulroni.com)
-Cybersecurity Researcher & Full-Stack Developer
+Cybersecurity Researcher 
 🔗 [rokibulroni.com](https://rokibulroni.com)
